@@ -1,0 +1,12 @@
+assets/*
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/*.db
+themes/classic/views/
+index.php
+favicon.ico
+applications.html
+webalizer/
+img/
+dashboard/
